@@ -1,1 +1,3 @@
 f1.txt: This is my first text file
+*******************************
+New line after creation of remote repo
