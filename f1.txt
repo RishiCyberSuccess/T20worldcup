@@ -8,4 +8,7 @@ New line after creation of remote repo
 123
 12312
 This is being updated by second user - Sachine
-----------------------------------------
+ 
+Trying to update from first user
+this line is updated by first user
+
