@@ -1,3 +1,6 @@
 f1.txt: This is my first text file
 *******************************
 New line after creation of remote repo
+--------------------------
+Trying to update from first user
+this line is updated by first user
